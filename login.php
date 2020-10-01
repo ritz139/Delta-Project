@@ -66,10 +66,10 @@ if(isset($_POST["login"]))
         <div class="container">
    <br />
    
-   <h3 align="center">Web Chat Application</a></h3><br />
+   <h3 align="center">Chat Application using PHP Ajax Jquery</a></h3><br />
    <br />
    <div class="panel panel-default">
-      <div class="panel-heading">Chat Login</div>
+      <div class="panel-heading">Chat Application Login</div>
         <div class="panel-body">
           <form method="post">
            <p class="text-danger"><?php echo $message; ?></p>
