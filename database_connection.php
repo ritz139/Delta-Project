@@ -2,7 +2,7 @@
 
 //database_connection.php
 
-$connect = new mysqli("localhost", "root", "", "chat", "charset=utf8mb4");
+$connect = new PDO("mysql:host=localhost;dbname=chat;charset=utf8mb4", "root", "");
 
 date_default_timezone_set('Asia/Kolkata');
 
