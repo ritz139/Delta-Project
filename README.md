@@ -1,6 +1,6 @@
 # Delta-Project
 
-This is a chatting web application made using PHP, Ajax and Jquery
+This is a chatting web application made using PHP and Ajax
 
 First open mysql in your terminal. Then run "source db.sql" inside mysql.
 Move all the "*.php" files to /var/www/html/
