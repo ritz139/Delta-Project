@@ -1,7 +1,5 @@
 <?php
 
-//fetch_user.php
-
 include('database_connection.php');
 
 session_start();
