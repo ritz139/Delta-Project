@@ -2,6 +2,13 @@
 
 This is a chatting web application made using PHP, Ajax and Jquery
 
+First open mysql in your terminal. Then run "source db.sql" inside mysql.
+Move all the "*.php" files to /var/www/html/
+
+Now navigate localhost/login.php
+
+You cannot go to index.php unless you are logged in.
+
 It consists of many interactive features.
 
 1) Registration page
