@@ -38,4 +38,5 @@ Login and Register pages are being linked
     
 6) Adding a feature to delete the send message, and showing that the message is deleted.
 
-    ![alt text](https://github.com/ritz139/Delta-Project/blob/master/screenshots/6.jpg?raw=true)
+    ![alt text](https://github.com/ritz139/Delta-Project/blob/master/screenshots/6a.jpg?raw=true)
+    ![alt text](https://github.com/ritz139/Delta-Project/blob/master/screenshots/6b.jpg?raw=true)
