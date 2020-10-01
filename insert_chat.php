@@ -1,7 +1,5 @@
 <?php
 
-//insert_chat.php
-
 include('database_connection.php');
 
 session_start();
