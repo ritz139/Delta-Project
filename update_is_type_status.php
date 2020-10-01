@@ -1,7 +1,5 @@
 <?php
 
-//update_is_type_status.php
-
 include('database_connection.php');
 
 session_start();
